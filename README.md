@@ -1,4 +1,4 @@
-# EX-8- Implement-DES-Encryption-and-Decryption
+# EX-8- Implement-AES-Encryption-and-Decryption
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
@@ -24,7 +24,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-    printf("\n\n\n\n      ***** ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM *****\n\n\n");
+    printf("\n\n\n\n      ***** ADVANCED-ENCRYPTION-STANDARD-AES-ALGORITHM *****\n\n\n");
     
 char url[] = "SANTHOSH";
 char key[] = "secretkey"; 
